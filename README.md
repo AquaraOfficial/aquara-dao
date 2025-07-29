@@ -30,10 +30,16 @@ Get a quick overview of Aquara’s mission, architecture, and vision.
 - [🧠 Preliminary Governance Model](https://www.aquara.io/_files/ugd/6d59ef_db50001936c6464db4ebafb342d2f41f.pdf)
 - [🪙 Tokenomics & Treasury](https://www.aquara.io/_files/ugd/6d59ef_7a799203d6df4720add4f3ba11807382.pdf)
 
-## 🗺️ Roadmap & Launch Strategy
+## 🗺️ Launch Strategy
 
 - [📅 Launch Blueprint (2025–2027)](https://drive.google.com/file/d/1WBg79isRDq532cxkcSPcBF3-ZAY440Pf/view) – Internal-facing strategic roll-out
-- [🗺️ Public Roadmap](https://www.aquara.io/roadmap) – Simplified milestone-based version (on website)
+
+## 🗺️ Aquara Roadmap (Q3 2025 – Q2 2026)
+
+This timeline reflects what we aim to achieve with Fund14 support.  
+For our full public roadmap, visit [aquara.io/roadmap](https://www.aquara.io/roadmap).
+
+![Aquara Roadmap Q3 2025 - Q2 2026](./assets/roadmap-2025-2026.png)
 
 ## 🧪 Experimental / Planning Folders
 
