@@ -4,7 +4,7 @@ Aquara is a decentralized water fund and governance layer building sustainable w
 ### 🗳️ Fund14 Catalyst Proposal
 This repository also serves as the official proposal repository for Aquara’s Fund14 Catalyst submission.
 
-This GitHub repo contains:
+**This GitHub repo contains:**
 - Our Fund14 Catalyst proposal
 - Our preliminary governance model outlines
 - Tokenomics and roadmap
