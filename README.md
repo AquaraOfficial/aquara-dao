@@ -27,7 +27,7 @@ Get a quick overview of Aquara’s mission, architecture, and vision.
 
 ## 📊 DAO Design & Tokenomics
 
-- [🧠 Preliminary Governance Model](https://www.aquara.io/_files/ugd/6d59ef_bcc93d44ded347a8b61600fe5b9fe582.pdf)
+- [🧠 Preliminary Governance Model](https://www.aquara.io/_files/ugd/6d59ef_db50001936c6464db4ebafb342d2f41f.pdf)
 - [🪙 Tokenomics & Treasury](https://www.aquara.io/_files/ugd/6d59ef_7a799203d6df4720add4f3ba11807382.pdf)
 
 ## 🗺️ Roadmap & Launch Strategy
