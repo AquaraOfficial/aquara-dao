@@ -51,6 +51,10 @@ For our full public roadmap, visit [aquara.io/roadmap](https://www.aquara.io/roa
 - [🔹 Animated Explainer (2 min)](https://www.youtube.com/watch?v=ZFZ48x9umt8)
   Quick visual summary of Aquara’s model, token, DAO structure, and water governance goals.
 
+  ## 📚 Documentation
+
+- [FAQ – Frequently Asked Questions](faq.md)
+
 ## 🧪 Experimental / Planning Folders
 
 These folders will contain early-stage work and planning materials for Aquara's longer-term development roadmap.
