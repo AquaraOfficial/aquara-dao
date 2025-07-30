@@ -23,7 +23,7 @@ Get a quick overview of Aquara’s mission, architecture, and vision.
 ## 💸 Fund14 Proposal
 
 - [📄 Fund14 Proposal (Markdown)](proposal.md)
-- [💰 Budget Breakdown](funding-breakdown.md)
+- [💰 Budget Breakdown (PDF)](./assets/Aquara_Catalyst_F14_Budget.pdf)
 
 ## 📊 DAO Design & Tokenomics
 
