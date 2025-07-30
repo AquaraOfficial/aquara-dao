@@ -36,10 +36,10 @@ Get a quick overview of Aquara’s mission, architecture, and vision.
 
 ## 🗺️ Aquara Roadmap (Q3 2025 – Q2 2026)
 
-![Aquara Roadmap Q3 2025 - Q2 2026](Roadmap 2025 - 2026 (For Catalyst).png)
-
-This timeline reflects what we aim to achieve with Fund14 support.
+This timeline reflects what we aim to achieve with Fund14 support.  
 For our full public roadmap, visit [aquara.io/roadmap](https://www.aquara.io/roadmap).
+
+![Aquara Roadmap](./assets/roadmap-2025-2026.png)
 
 ## 🧪 Experimental / Planning Folders
 
