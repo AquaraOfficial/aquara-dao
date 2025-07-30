@@ -16,9 +16,9 @@ This repository also serves as the official proposal repository for Aquara’s F
 Get a quick overview of Aquara’s mission, architecture, and vision.
 
 - [🌐 Visit our website](https://aquara.io)
+- [🧭 Start Here Overview (short orientation doc)](https://drive.google.com/file/d/1zaSm0HRqofiqqE2vp_2DebN9n7Hu7M7S/view?usp=sharing)
 - [📄 Litepaper (summary vision)](https://drive.google.com/file/d/13TNf74iXeh9C9j7FEjtnZ0IoVR_I0A_Z/view?usp=sharing)
 - [📘 Full Whitepaper (PDF)](https://drive.google.com/file/d/1EJeiwv_9_CiSVi_LokZL6-zvBADQoVB3/view?usp=sharing)
-- [🧭 Start Here Overview (short orientation doc)](https://drive.google.com/file/d/1zaSm0HRqofiqqE2vp_2DebN9n7Hu7M7S/view?usp=sharing)
 
 ## 💸 Fund14 Proposal
 
@@ -36,10 +36,10 @@ Get a quick overview of Aquara’s mission, architecture, and vision.
 
 ## 🗺️ Aquara Roadmap (Q3 2025 – Q2 2026)
 
-This timeline reflects what we aim to achieve with Fund14 support.  
-For our full public roadmap, visit [aquara.io/roadmap](https://www.aquara.io/roadmap).
+![Aquara Roadmap Q3 2025 - Q2 2026](Roadmap 2025 - 2026 (For Catalyst).png)
 
-![Aquara Roadmap Q3 2025 - Q2 2026](./assets/roadmap-2025-2026.png)
+This timeline reflects what we aim to achieve with Fund14 support.
+For our full public roadmap, visit [aquara.io/roadmap](https://www.aquara.io/roadmap).
 
 ## 🧪 Experimental / Planning Folders
 
