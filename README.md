@@ -29,7 +29,7 @@ Get a quick overview of Aquara’s mission, architecture, and vision.
 
 ## 📊 DAO Design & Tokenomics
 
-- [🧠 Preliminary Governance Model](https://www.aquara.io/_files/ugd/6d59ef_db50001936c6464db4ebafb342d2f41f.pdf)
+- [🧠 Preliminary Governance Mode](https://www.aquara.io/_files/ugd/6d59ef_db50001936c6464db4ebafb342d2f41f.pdf)
 - [🪙 Tokenomics & Treasury](https://www.aquara.io/_files/ugd/6d59ef_7a799203d6df4720add4f3ba11807382.pdf)
 
 ## 🗺️ Launch Strategy
@@ -42,6 +42,14 @@ This timeline reflects what we aim to achieve with Fund14 support.
 For our full public roadmap, visit [aquara.io/roadmap](https://www.aquara.io/roadmap).
 
 ![Aquara Roadmap](./assets/roadmap-2025-2026.png)
+
+## 🎬 Project Videos
+
+- [🔹 Founder Introduction (2 min)](https://www.youtube.com/watch?v=ChHVROUFp8g)
+  A personal message from the founder about Aquara's mission and long-term vision.
+
+- [🔹 Animated Explainer (2 min)](https://www.youtube.com/watch?v=ZFZ48x9umt8)
+  Quick visual summary of Aquara’s model, token, DAO structure, and water governance goals.
 
 ## 🧪 Experimental / Planning Folders
 
