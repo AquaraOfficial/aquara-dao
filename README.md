@@ -26,6 +26,8 @@ Get a quick overview of Aquara’s mission, architecture, and vision.
 - [💰 Budget Breakdown (PDF)](./assets/Aquara_Catalyst_F14_Budget.pdf)
 - [🧪 DAO MVP Pilot Governance Plan](./dao-mvp-pilot-governance.md)  
   A detailed plan for the Aquara MVP, governance pilot, and DAO simulation approach for Fund14.
+- [🗺 DAO Pilot Flow Diagram (PNG)](./assets/DAO_Flow_Diagram.png)  
+  Visual outline of AQA governance logic and simulated DAO process.
 
 ## 📊 DAO Design & Tokenomics
 
