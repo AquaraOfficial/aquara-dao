@@ -5,9 +5,10 @@ Aquara is an open-source, decentralized water fund and governance layer designed
 ### 🗳️ Fund14 Catalyst Proposal
 This repository also serves as the official proposal repository for Aquara’s Fund14 Catalyst submission.
 
-## This GitHub repo contains:
+# This GitHub repo contains:
 
 🧩 Open Source Commitment  
+
 All planning materials in this repository are public and feedback-driven. Upon receiving Fund14 support, we will open-source our DAO MVP code, governance modules, and simulation results for community review and iteration.
 
 📄 Our Fund14 Catalyst proposal  
