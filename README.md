@@ -1,6 +1,5 @@
-# aquara-dao
-> 🏛🌊 Aquara | Fund14 Proposal – DAO Simulation & Governance MVP for Decentralized Water Assets
-> 
+# 🏛🌊 Aquara | Fund14 Proposal – DAO Simulation & Governance MVP for Decentralized Water Assets
+
 Aquara is an open-source, decentralized water fund and governance layer designed to incentivize sustainable water management through tokenized coordination and DAO-based decision-making. Fund14 Catalyst proposal and planning repo.
 
 ### 🗳️ Fund14 Catalyst Proposal
