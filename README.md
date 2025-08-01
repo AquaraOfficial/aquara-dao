@@ -73,5 +73,7 @@ For our full public roadmap, visit [aquara.io/roadmap](https://www.aquara.io/roa
 These folders will contain early-stage work preparing for Aquara’s governance MVP and smart contract architecture.
 
 /designs/ – Early UI/UX drafts and interface mockups
+
 /research/ – Reference materials, NGO analysis, academic sources
+
 /contracts/ – Placeholder folder for governance contract specs (to be developed post-Fund14)
