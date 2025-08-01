@@ -1,5 +1,7 @@
 # aquara-dao
-Aquara is a decentralized water fund and governance layer building sustainable water management through tokenized incentives and DAO logic. Fund14 Catalyst proposal and planning repo.
+> 🏛🌊 Aquara | Fund14 Proposal – DAO Simulation & Governance MVP for Decentralized Water Assets
+> 
+Aquara is an open-source, decentralized water fund and governance layer designed to incentivize sustainable water management through tokenized coordination and DAO-based decision-making. Fund14 Catalyst proposal and planning repo.
 
 ### 🗳️ Fund14 Catalyst Proposal
 This repository also serves as the official proposal repository for Aquara’s Fund14 Catalyst submission.
@@ -69,8 +71,8 @@ For our full public roadmap, visit [aquara.io/roadmap](https://www.aquara.io/roa
 
 ## 🧪 Experimental / Planning Folders
 
-These folders will contain early-stage work and planning materials for Aquara's longer-term development roadmap.
+These folders will contain early-stage work preparing for Aquara’s governance MVP and smart contract architecture.
 
-- `/designs/` – UI mockups and early interface concepts  
-- `/research/` – Papers, NGO evaluation notes, references  
-- `/contracts/` – Placeholder for smart contract specs (future)
+/designs/ – Early UI/UX drafts and interface mockups
+/research/ – Reference materials, NGO analysis, academic sources
+/contracts/ – Placeholder folder for governance contract specs (to be developed post-Fund14)
