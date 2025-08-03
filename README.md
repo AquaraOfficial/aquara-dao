@@ -34,6 +34,8 @@ Get a quick overview of Aquara’s mission, architecture, and vision.
   A detailed plan for the Aquara MVP, governance pilot, and DAO simulation approach for Fund14.
 - [🗺 DAO Pilot Flow Diagram](./assets/DAO_Flow_Diagram.png)  
   Visual outline of AQA governance logic and simulated DAO process.
+- [🧭 DAO Proposal Lifecycle](./assets/DAO_Proposal_Lifecycle.png)
+  Visual diagram showing the lifecycle of DAO proposals: creation, discussion, voting, result tallying, feedback, and improvement.
 
 ## 📊 DAO Design & Tokenomics
 
