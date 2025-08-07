@@ -1,6 +1,6 @@
 # 🏛🌊 Aquara | Fund14 Proposal – DAO Simulation & Governance MVP for Decentralized Water Assets
 
-Aquara is an open-source, decentralized water fund and governance layer designed to incentivize sustainable water management through tokenized coordination and DAO-based decision-making. Fund14 Catalyst proposal and planning repo.
+Aquara is a new funding layer for the global water economy — an open-source, decentralized water fund and governance layer designed to incentivize sustainable water management through tokenized coordination and DAO-based decision-making.
 
 ### 🗳️ Fund14 Catalyst Proposal
 This repository also serves as the official proposal repository for Aquara’s Fund14 Catalyst submission.
@@ -50,7 +50,7 @@ Get a quick overview of Aquara’s mission, architecture, and vision.
 
 Aquara holders can:
 - Vote on governance decisions
-- Fund water reserve infrastructure
+- Fund water infrastructure, technology & reserves
 - Help grow the value of real-world assets
 - Join a global decentralization movement
 - Hedge with a dual-backed asset (water + BTC)
