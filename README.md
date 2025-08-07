@@ -37,6 +37,9 @@ Get a quick overview of Aquara’s mission, architecture, and vision.
 - [🧭 DAO Proposal Lifecycle](./assets/DAO_Proposal_Lifecycle.png)
   Visual diagram showing the lifecycle of DAO proposals: creation, discussion, voting, result tallying, feedback, and improvement.
 
+- [🌐 Governance Portal UI Mockup (Live Preview)](https://app--aquara-governance-84163bcd.base44.app)  
+  A live mockup of the proposed user interface for the Aquara Governance Portal used during the MVP pilot. Demonstrates how proposals, voting, and outcome feedback may appear to holders.
+
 ## 📊 DAO Design & Tokenomics
 
 - [🧠 Preliminary Governance Mode](https://www.aquara.io/_files/ugd/6d59ef_db50001936c6464db4ebafb342d2f41f.pdf)
