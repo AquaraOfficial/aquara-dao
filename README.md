@@ -39,6 +39,7 @@ Get a quick overview of Aquara’s mission, architecture, and vision.
 
 [🔮 Governance Portal UI Mockup (Live Preview)](https://app--aquara-governance-portal-84163bcd.base44.app)
   A live mockup of the proposed user interface for the Aquara Governance Portal used during the MVP pilot. Demonstrates how proposals, voting, and outcome feedback may appear to holders.
+  ⚠️ Note: This is an early functional mockup for demonstration purposes only. The full interactive portal will be available after further development.
 
 ## 📊 DAO Design & Tokenomics
 
