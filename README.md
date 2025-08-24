@@ -42,7 +42,7 @@ Get a quick overview of Aquara’s mission, architecture, and vision.
   
   ⚠️ Note: This is an early functional mockup for demonstration purposes only. The full interactive portal will be available after further development.
 
-## 📊 DAO Design & Tokenomics
+## 📊 DAO Design, Tokenomics & Treasury Dashboard
 
 - [🧠 Preliminary Governance Model](https://www.aquara.io/_files/ugd/6d59ef_db50001936c6464db4ebafb342d2f41f.pdf)
 
