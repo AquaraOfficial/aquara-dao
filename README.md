@@ -45,7 +45,11 @@ Get a quick overview of Aquara’s mission, architecture, and vision.
 ## 📊 DAO Design & Tokenomics
 
 - [🧠 Preliminary Governance Model](https://www.aquara.io/_files/ugd/6d59ef_db50001936c6464db4ebafb342d2f41f.pdf)
+- Outlines the early structure for how Aquara holders can participate in decision-making. Covers proposal creation, voting mechanics, quorum, and feedback loops—designed to ensure transparency, accountability, and gradual decentralization.
 - [🪙 Tokenomics & Treasury](https://www.aquara.io/_files/ugd/6d59ef_7a799203d6df4720add4f3ba11807382.pdf)
+- Explains the AQA token’s utility, distribution, and how the treasury will back real-world water assets and other investments. Shows how funds are allocated, tracked, and managed to support both sustainable growth and community-driven governance.
+- [💹 Treasury Dashboard UI Mockup (Live Preview)](https://app--aquara-dashboard-e7c7522f.base44.app)
+A functional mockup showing how the Aquara Treasury dashboard may appear to holders. Demonstrates fund allocation, asset backing, and treasury performance.
 
 ### 🪙 AQA Token Utility
 
